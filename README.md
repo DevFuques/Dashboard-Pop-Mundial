@@ -42,16 +42,16 @@ python3 -m venv venv
 
 ### 3️⃣ Ativar o ambiente virtual
 
-- Linux/macOS
+#### - Linux/macOS
   source venv/bin/activate
 
-- Windows
+#### - Windows
   venv\Scripts\activate
 
 ### 4️⃣ Instalar dependências
 pip install -r requirements.txt
 
-- Caso o plotly não esteja listado, instale manualmente:
+#### - Caso o plotly não esteja listado, instale manualmente:
 pip install plotly
 
 ### 5️⃣ Executar o dashboard
