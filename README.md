@@ -57,9 +57,13 @@ pip install plotly
 5️⃣ Executar o dashboard
 streamlit run app.py
 
+---
+
 📸 Demonstração
 
 <img width="1603" height="888" alt="Captura de tela de 2025-08-13 17-27-19" src="https://github.com/user-attachments/assets/e1f2c2a0-87a2-40d7-944b-c481a6b9c291" />
+
+---
 
 📄 Licença
 
