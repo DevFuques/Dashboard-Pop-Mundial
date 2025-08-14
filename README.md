@@ -3,6 +3,8 @@
 Este é um **dashboard interativo** sobre a **população mundial**, desenvolvido com base nos conhecimentos adquiridos durante a **Imersão Dados com Pandas da Alura**.  
 O projeto aplica técnicas de **análise e visualização de dados** para apresentar métricas e insights de forma clara.
 
+Dashboard Online: https://dashboard-pop-mundial-pz2zhnj6moqvf2rxjcmunw.streamlit.app/
+
 ---
 
 ## ✨ Funcionalidades
