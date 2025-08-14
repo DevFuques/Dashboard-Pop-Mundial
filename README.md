@@ -37,10 +37,10 @@ Inspirado pelo conteúdo, criei este dashboard usando **dados do DataHub** e adi
 git clone https://github.com/seu-usuario/Dashboard-Pop-Mundial.git
 cd Dashboard-Pop-Mundial
 
-2️⃣ Criar um ambiente virtual
+### 2️⃣ Criar um ambiente virtual
 python3 -m venv venv
 
-3️⃣ Ativar o ambiente virtual
+### 3️⃣ Ativar o ambiente virtual
 
 - Linux/macOS
   source venv/bin/activate
@@ -48,23 +48,23 @@ python3 -m venv venv
 - Windows
   venv\Scripts\activate
 
-4️⃣ Instalar dependências
+### 4️⃣ Instalar dependências
 pip install -r requirements.txt
 
 - Caso o plotly não esteja listado, instale manualmente:
 pip install plotly
 
-5️⃣ Executar o dashboard
+### 5️⃣ Executar o dashboard
 streamlit run app.py
 
 ---
 
-📸 Demonstração
+## 📸 Demonstração
 
 <img width="1603" height="888" alt="Captura de tela de 2025-08-13 17-27-19" src="https://github.com/user-attachments/assets/e1f2c2a0-87a2-40d7-944b-c481a6b9c291" />
 
 ---
 
-📄 Licença
+## 📄 Licença
 
 Este projeto está sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
