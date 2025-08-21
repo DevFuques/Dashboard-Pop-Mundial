@@ -36,7 +36,7 @@ Inspirado pelo conteúdo, criei este dashboard usando **dados do DataHub** e adi
 ## 🚀 Como executar
 
 ### 1️⃣ Clonar o repositório
-git clone https://github.com/seu-usuario/Dashboard-Pop-Mundial.git
+git clone https://github.com/DevFuques/Dashboard-Pop-Mundial.git
 cd Dashboard-Pop-Mundial
 
 ### 2️⃣ Criar um ambiente virtual
