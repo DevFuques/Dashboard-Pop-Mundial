@@ -1,7 +1,6 @@
 # 📊 Dashboard de População Mundial
 
-![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
-
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 
 Este é um **dashboard interativo** sobre a **população mundial**, desenvolvido com base nos conhecimentos adquiridos durante a **Imersão Dados com Pandas da Alura**.  
 O projeto aplica técnicas de **análise e visualização de dados** para apresentar métricas e insights de forma clara.
